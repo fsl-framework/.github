@@ -8,16 +8,15 @@
 
 
 ## 🎮 About us
-FSL-Framework Is A Red Dead Redemption 2 Roleplay Framework, Developed By many Developers And Contributors. The Server Is Run On The Third/Party Multiplayer Server System, RedM. It Contains Custom Scripts Created By FS-Development And Community Developers
+FSL-Framework Is A Red Dead Redemption 2 Roleplay Framework, Developed By many Developers And Contributors. The Server Is Run On The Third/Party Multiplayer Server System, RedM. It Contains Custom Scripts Created Community Developers
 
 ## 📚 Documentation
-- [Website](https://forcescripts.github.io/home)
+- [Website]()
   
 ## 🎤 Our Discord
 - [Discord](https://discord.gg/6kJ5ubDEWE)
 
 ## 👨‍💻 Meet the team
 <p align="center">
- <a href=https://github.com/IDKFORCE><img width="420" src=https://github-readme-stats.vercel.app/api?username=IDKFORCE&count_private=true&show_icons=true&title_color=dc143c&text_color=ffffff&icon_color=dc143c&hide_border=true&bg_color=282a36&layout=compact&hide_title=false&hide_rank=false><a>
     <a href=https://github.com/alexandercrews><img width="420" src=https://github-readme-stats.vercel.app/api?username=alexandercrews&count_private=true&show_icons=true&title_color=dc143c&text_color=ffffff&icon_color=dc143c&hide_border=true&bg_color=282a36&layout=compact&hide_title=false&hide_rank=false><a>
 </p>
